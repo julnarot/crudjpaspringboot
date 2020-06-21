@@ -1,0 +1,9 @@
+/home/raul/jota/dev/java/spring-boot-rest-example/src/main/java/com/inventario/controller/CategoriaController.java
+/home/raul/jota/dev/java/spring-boot-rest-example/src/main/java/com/inventario/repository/ProductoRepository.java
+/home/raul/jota/dev/java/spring-boot-rest-example/src/main/java/com/inventario/entity/request/AddProductoRequest.java
+/home/raul/jota/dev/java/spring-boot-rest-example/src/main/java/com/inventario/Runner.java
+/home/raul/jota/dev/java/spring-boot-rest-example/src/main/java/com/inventario/entity/Categoria.java
+/home/raul/jota/dev/java/spring-boot-rest-example/src/main/java/com/inventario/entity/request/AddCategoriaRequest.java
+/home/raul/jota/dev/java/spring-boot-rest-example/src/main/java/com/inventario/entity/Producto.java
+/home/raul/jota/dev/java/spring-boot-rest-example/src/main/java/com/inventario/repository/CategoriaRepository.java
+/home/raul/jota/dev/java/spring-boot-rest-example/src/main/java/com/inventario/controller/ProductoController.java

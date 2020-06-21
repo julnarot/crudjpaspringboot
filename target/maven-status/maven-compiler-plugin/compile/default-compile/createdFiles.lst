@@ -1,0 +1,9 @@
+com/inventario/controller/CategoriaController.class
+com/inventario/entity/Categoria.class
+com/inventario/repository/CategoriaRepository.class
+com/inventario/entity/Producto.class
+com/inventario/entity/request/AddCategoriaRequest.class
+com/inventario/entity/request/AddProductoRequest.class
+com/inventario/controller/ProductoController.class
+com/inventario/repository/ProductoRepository.class
+com/inventario/Runner.class
